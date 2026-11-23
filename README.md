@@ -4,3 +4,5 @@ Kahvenaz Abla fal uygulamasının tıklanabilir prototipi. Falların hepsi örne
 kamera ve satın alma yoktur. Telefonda tam ekran açılır; Profil > Dil ile 6 dil arasında geçilir.
 
 Adres: https://teknodur1-web.github.io/kahvenaz-abla-web/
+
+Tarot kart resimleri: Rider-Waite-Smith destesi (1909, Pamela Colman Smith), kamu malı; kaynak Wikimedia Commons.
